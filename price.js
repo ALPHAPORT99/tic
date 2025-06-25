@@ -1,4 +1,4 @@
-const API_KEY = '5HU8JZCTUM6EW7IQ'; // Replace with your real Alpha Vantage key
+const API_KEY = 'demo'; // Replace with your real Alpha Vantage key
 const tickerEl = document.getElementById('ticker');
 
 const tickers = [
